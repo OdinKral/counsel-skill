@@ -127,7 +127,7 @@ See [PHILOSOPHY.md](PHILOSOPHY.md) for the full intellectual lineage.
 
 ## Credits
 
-Built by Bryan Kral as part of the [PAI (Personal AI Infrastructure)](https://github.com/OdinKral) project.
+Built by Bryan as part of the [PAI (Personal AI Infrastructure)](https://github.com/OdinKral) project.
 
 Intellectual influences: Martha Wells, Dennis E. Taylor, Andy Weir, Pete Adeney, Jocko Willink, Daniel Kahneman, Nassim Taleb, Donella Meadows, Rich Sutton (Bitter Lesson), Guy Freeman (Bitter Lesson's Missing Half), the Unix philosophy.
 
