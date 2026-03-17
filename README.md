@@ -1,4 +1,4 @@
-# Counsel — Composable AI Thinking Partners
+# Council — Composable AI Thinking Partners
 
 A structured thinking partner framework using 5 AI archetypes that can be invoked individually, in flexible teams, or as a full council. Works with any LLM.
 

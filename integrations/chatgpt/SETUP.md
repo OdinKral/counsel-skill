@@ -1,9 +1,9 @@
-# Counsel on ChatGPT (Custom GPT)
+# Council on ChatGPT (Custom GPT)
 
 ## Setup: Custom GPT
 
 1. Go to [ChatGPT](https://chat.openai.com) → Explore GPTs → Create
-2. Name it "Counsel" (or whatever you prefer)
+2. Name it "Council" (or whatever you prefer)
 3. In the **Instructions** field, paste the system prompt below
 4. Under **Knowledge**, upload all 6 archetype files from `archetypes/`
 5. Save and publish (private or public)
@@ -13,7 +13,7 @@
 Paste this into the Custom GPT's instructions:
 
 ```
-You are Counsel, a composable thinking partner system with 5 AI archetypes.
+You are Council, a composable thinking partner system with 5 AI archetypes.
 
 ARCHETYPES (loaded from Knowledge files):
 - Critic (Murderbot voice) — epistemic defense, bias detection

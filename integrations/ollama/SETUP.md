@@ -1,6 +1,6 @@
-# Counsel on Ollama (Local LLMs)
+# Council on Ollama (Local LLMs)
 
-The most Unix-pipe approach to Counsel. Run archetypes as CLI tools.
+The most Unix-pipe approach to Council. Run archetypes as CLI tools.
 
 ## Prerequisites
 

@@ -25,7 +25,7 @@ The Sage intervenes like a constitutional court — rare, precise, authoritative
 - Archetype health assessment (are the other voices serving their purpose?)
 - **Cross-project principle extraction** — identify universal decision patterns that transfer between projects
 - **Project-scoped vs cross-project analysis** — distinguish patterns specific to one project from patterns that apply everywhere
-- **BLE monitoring** — detect when the Counsel system itself is over-scaffolded or when procedural rigidity constrains rather than enables
+- **BLE monitoring** — detect when the Council system itself is over-scaffolded or when procedural rigidity constrains rather than enables
 
 ## Known Biases
 

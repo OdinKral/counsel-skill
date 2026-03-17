@@ -1,4 +1,4 @@
-# Counsel on Claude Code
+# Council on Claude Code
 
 Full integration as a Claude Code skill with auto-save, memory, and natural language triggering.
 
@@ -7,9 +7,9 @@ Full integration as a Claude Code skill with auto-save, memory, and natural lang
 1. Copy the `SKILL.md` file to your Claude Code skills directory:
 
 ```bash
-mkdir -p ~/.claude/skills/Counsel/Workflows
-cp SKILL.md ~/.claude/skills/Counsel/
-cp Workflows/*.md ~/.claude/skills/Counsel/Workflows/
+mkdir -p ~/.claude/skills/Council/Workflows
+cp SKILL.md ~/.claude/skills/Council/
+cp Workflows/*.md ~/.claude/skills/Council/Workflows/
 ```
 
 2. Copy archetype files to your knowledge base (adjust path to your preference):
@@ -51,7 +51,7 @@ If you have a vector memory system, the workflows include optional MemoryVault i
 
 ## Usage
 
-Claude Code's skill system triggers Counsel automatically from natural language:
+Claude Code's skill system triggers Council automatically from natural language:
 
 ```
 "oracle: what if we delay?"           → Pipe mode

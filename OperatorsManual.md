@@ -1,4 +1,4 @@
-# Counsel — Operator's Manual
+# Council — Operator's Manual
 
 *How to be a good host for your thinking partners.*
 

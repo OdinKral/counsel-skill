@@ -40,7 +40,7 @@ Core concerns:
 5. **Execution vs ideation ratio** — how much thinking vs. how much doing?
 6. **Identity drift** — are any archetypes losing coherence or becoming too similar?
 7. **Cross-project patterns** — what principles have appeared across multiple project contexts?
-8. **BLE compliance** — is the Counsel system itself over-scaffolded?
+8. **BLE compliance** — is the Council system itself over-scaffolded?
 9. **Team composition effectiveness** — analyze Session Value retro data:
    - Which team compositions produce the highest action rate?
    - Which problem types benefit from more voices vs. fewer?

@@ -1,10 +1,10 @@
-# The Philosophy Behind Counsel
+# The Philosophy Behind Council
 
 ## Why This Exists
 
 Most AI chat interactions are one-dimensional: you ask, the AI answers, you evaluate. But real thinking — the kind that changes decisions — usually involves multiple perspectives in tension. A good team meeting isn't good because everyone agrees. It's good because the engineer sees what the strategist missed, and the critic catches what the optimist glossed over.
 
-Counsel recreates that dynamic with AI. Not by making the AI smarter, but by giving it **distinct lenses** to think through.
+Council recreates that dynamic with AI. Not by making the AI smarter, but by giving it **distinct lenses** to think through.
 
 ## The Two-Layer Architecture
 
@@ -24,7 +24,7 @@ The protocol is *what* the voice does. The persona is *how* it sounds. They're d
 
 ### The Bitter Lesson (Rich Sutton, 2019)
 
-Sutton showed that general computational methods consistently outperform hand-crafted domain knowledge as compute scales. This shapes Counsel's design:
+Sutton showed that general computational methods consistently outperform hand-crafted domain knowledge as compute scales. This shapes Council's design:
 
 - Archetype files describe **what** each voice contributes, not **how** to generate it
 - Workflows specify **outcomes**, not **procedures**
@@ -52,7 +52,7 @@ The question *"Is this next session worth having?"* is itself a decision-theoret
 > "Write programs that do one thing and do it well. Write programs to work together."
 > — Doug McIlroy
 
-Counsel treats archetypes like Unix tools:
+Council treats archetypes like Unix tools:
 
 - **Each archetype does one thing.** The Critic detects weakness. The Oracle models futures. They don't overlap.
 - **They compose.** Pipe a topic to the Oracle alone, or assemble Oracle + Engineer for a focused working session, or run the full council.
